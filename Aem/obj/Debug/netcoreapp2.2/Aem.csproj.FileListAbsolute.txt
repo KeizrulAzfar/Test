@@ -1,0 +1,16 @@
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\Aem.deps.json
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\Aem.runtimeconfig.json
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\Aem.runtimeconfig.dev.json
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\Aem.dll
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.csprojAssemblyReference.cache
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.RazorAssemblyInfo.cache
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.RazorAssemblyInfo.cs
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.AssemblyInfoInputs.cache
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.AssemblyInfo.cs
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.RazorTargetAssemblyInfo.cache
+C:\Users\keizrul\source\repos\Aem\bin\Debug\netcoreapp2.2\Aem.pdb
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.dll
+C:\Users\keizrul\source\repos\Aem\obj\Debug\netcoreapp2.2\Aem.pdb
